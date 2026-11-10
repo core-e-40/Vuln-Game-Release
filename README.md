@@ -1,6 +1,6 @@
 # TextRealm
 
-A text-based game that runs as a local server.
+A text-based game that runs on localhost.
 
 ## Running
 
